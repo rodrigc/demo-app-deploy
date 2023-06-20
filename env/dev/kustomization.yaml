@@ -7,4 +7,4 @@ resources:
 
 images:
   - name: ghcr.io/rodrigc/demo-app
-    newTag: latest
+    newTag: 5701c062356a91264f19dd42c39683ef3e9e7e60
