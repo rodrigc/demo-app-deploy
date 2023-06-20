@@ -5,11 +5,6 @@ on:
       - main
 
 jobs:
-  placeholder:
-    runs-on: ubuntu-latest
-    steps:
-      - run: echo "rendered-manifests workflow currently disabled"
-
   render-manifests:
     name: Render manifests
     runs-on: ubuntu-latest
