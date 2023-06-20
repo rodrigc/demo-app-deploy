@@ -5,4 +5,4 @@ resources:
 - ../../base
 images:
 - name: ghcr.io/rodrigc/demo-app
-  newTag: 22f213fc7c11cfdf433cdc89d397ad888a639ebb
+  newTag: 9305f4c2a764ccc21008257eafc3032cd97c7521
